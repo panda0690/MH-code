@@ -1,0 +1,1 @@
+{"expo":{"name":"MH Code","slug":"mh-code-mobile","scheme":"mhcode","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"dark","newArchEnabled":true,"plugins":["expo-router",["expo-file-system",{"supportsOpeningDocumentsInPlace":true}]],"experiments":{"typedRoutes":true},"android":{"package":"com.panda0690.mhcode"},"ios":{"bundleIdentifier":"com.panda0690.mhcode"}}}
